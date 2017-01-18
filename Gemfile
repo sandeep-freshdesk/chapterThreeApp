@@ -17,7 +17,10 @@ gem 'rspec', '2.0.1'
 gem 'webrat', '0.7.1'
 end
 
-
+gem "ZenTest"
+gem "autotest-rails-pure"
+gem "autotest-growl"
+gem "autotest-fsevent"
 
 # Gems used only for assets and not required
 # in production environments by default.
